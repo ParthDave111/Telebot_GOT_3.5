@@ -1,1 +1,1 @@
-# Telebot_GOT_3.5
+# Telebot_GPT_3.5
